@@ -12,7 +12,7 @@ Notre but était de comparer l'exécution d'une application Java, entre ses vers
 
 Nous obtenions les résultats suivants dans Grafana :
 
-![Visualisation du roll-out entre une image JVM et une image Native dans Grafana](_img/grafana_demo_native_rng_hasher_annotated.jpg)
+![Visualisation du roll-out entre une image JVM et une image Native dans Grafana](_img/grafana_demo_native_rng_hasher_annotated.png)
 
 Et nous constations à propos de :
 
